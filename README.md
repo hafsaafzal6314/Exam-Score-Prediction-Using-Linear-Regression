@@ -26,7 +26,7 @@ To build a machine learning model that predicts students' final exam scores base
 
 # 📊 Dataset Preview
 
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](dataset_preview.png)
 
 ---
 
@@ -34,7 +34,7 @@ To build a machine learning model that predicts students' final exam scores base
 
 ## Distribution of Final Exam Scores
 
-![Histogram](images/histogram.png)
+![Histogram](histogram.png)
 
 **Observation**
 
@@ -45,7 +45,7 @@ To build a machine learning model that predicts students' final exam scores base
 
 ## Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 **Observation**
 
@@ -71,7 +71,7 @@ To build a machine learning model that predicts students' final exam scores base
 
 ## Actual vs Predicted Scores
 
-![Prediction](images/actual_vs_predicted.png)
+![Prediction](internshipproject/actual_vs_predicted.png)
 
 The scatter plot shows that the predicted scores generally follow the actual exam scores, indicating good predictive performance.
 
