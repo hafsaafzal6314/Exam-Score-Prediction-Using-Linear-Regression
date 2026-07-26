@@ -71,7 +71,7 @@ To build a machine learning model that predicts students' final exam scores base
 
 ## Actual vs Predicted Scores
 
-![Prediction](internshipproject/actual_vs_predicted.png)
+![Prediction](actual_vs_predicted.png)
 
 The scatter plot shows that the predicted scores generally follow the actual exam scores, indicating good predictive performance.
 
