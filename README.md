@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+**Try the application here:** https://exam-score-prediction-using-linear-regression-qbpfepgsqhmwyblk.streamlit.app/
+
 # 📘 Exam Score Prediction Using Linear Regression
 
 ## 📌 Project Overview
